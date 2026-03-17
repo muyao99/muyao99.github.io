@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Muyao Peng"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: Wuhan, China
+- name: Huazhong University of Science and Technology
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
